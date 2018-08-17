@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.exe.config
+C:\Users\Administrator\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.exe
+C:\Users\Administrator\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.pdb
+C:\Users\Administrator\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.exe
+C:\Users\Administrator\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.pdb
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.exe.config
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.exe
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.pdb
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.exe
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.pdb
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\Basler.Pylon.dll
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\Basler.Pylon.xml
+C:\Users\Admin\Desktop\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.csprojResolveAssemblyReference.cache
+D:\Program Files\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.exe.config
+D:\Program Files\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.exe
+D:\Program Files\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.pdb
+I:\培养箱自动运行服务测试\培养箱自动运行服务测试\bin\Debug\培养箱自动运行服务测试.exe.config
+I:\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.exe
+I:\培养箱自动运行服务测试\培养箱自动运行服务测试\obj\Debug\培养箱自动运行服务测试.pdb
